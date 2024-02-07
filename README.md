@@ -1,7 +1,8 @@
-### Me chamado Gabriel Eduardo 👋
+### Olá, me chamo Gabriel Santos! E fico feliz com a sua visita 👋
 - 🔭 Consultor de Implementação
 - 🌱 PHP, React, JavaScript, HTML5 e CSS
 - 📫 gabrieleduardo.sant@gmail.com
+- 🚀 Perfil em construção
 
 <div style="display: inline_block"><br>
   <a href="https://beacons.ai/Gabriel-Santos-cwb"><br><br> 
