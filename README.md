@@ -1,6 +1,6 @@
 ### Olá, me chamo Gabriel Santos! E fico feliz com a sua visita 👋
 - 🔭 Consultor de Implementação
-- 🌱 PHP, React, JavaScript, HTML5 e CSS
+- 🌱 PHP, React, JavaScript, HTML5, ChatBot e CSS
 - 📫 gabrieleduardo.sant@gmail.com
 - 🚀 Perfil em construção
 
